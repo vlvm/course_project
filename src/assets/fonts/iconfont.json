@@ -1,0 +1,107 @@
+{
+  "id": "3202972",
+  "name": "langxun",
+  "font_family": "iconfont",
+  "css_prefix_text": "lx-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387519",
+      "name": "对号",
+      "font_class": "right-line",
+      "unicode": "eaf1",
+      "unicode_decimal": 60145
+    },
+    {
+      "icon_id": "5831258",
+      "name": "错",
+      "font_class": "wrong-line",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "13196690",
+      "name": "半对-solid",
+      "font_class": "partially-line",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18263",
+      "name": "错误",
+      "font_class": "wrong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "171180",
+      "name": "对",
+      "font_class": "right",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3968721",
+      "name": "半对",
+      "font_class": "partially",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4292617",
+      "name": "关联",
+      "font_class": "guanlian",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "659176",
+      "name": "ic_zomm_out",
+      "font_class": "small",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "659178",
+      "name": "ic_zoom_in",
+      "font_class": "iczoomout",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "3978372",
+      "name": "保存",
+      "font_class": "save",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "20663352",
+      "name": "原始比例",
+      "font_class": "yuanshibili",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "12604755",
+      "name": "橡皮擦",
+      "font_class": "xiangpica",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "17851632",
+      "name": "画笔",
+      "font_class": "huabi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "17852467",
+      "name": "回收站",
+      "font_class": "clear",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}

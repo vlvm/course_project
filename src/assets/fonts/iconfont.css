@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3202972 */
+  src: url('iconfont.woff2?t=1657174708829') format('woff2'),
+       url('iconfont.woff?t=1657174708829') format('woff'),
+       url('iconfont.ttf?t=1657174708829') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lx-right-line:before {
+  content: "\eaf1";
+}
+
+.lx-wrong-line:before {
+  content: "\e63f";
+}
+
+.lx-partially-line:before {
+  content: "\e618";
+}
+
+.lx-wrong:before {
+  content: "\e600";
+}
+
+.lx-right:before {
+  content: "\e625";
+}
+
+.lx-partially:before {
+  content: "\e647";
+}
+
+.lx-guanlian:before {
+  content: "\e756";
+}
+
+.lx-small:before {
+  content: "\e645";
+}
+
+.lx-iczoomout:before {
+  content: "\e649";
+}
+
+.lx-save:before {
+  content: "\e65c";
+}
+
+.lx-yuanshibili:before {
+  content: "\e6c7";
+}
+
+.lx-xiangpica:before {
+  content: "\e60e";
+}
+
+.lx-huabi:before {
+  content: "\e642";
+}
+
+.lx-clear:before {
+  content: "\e646";
+}
+
